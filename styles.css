@@ -16,16 +16,16 @@ header>h1 {
 }
 
 body {
-  background-color: #24272E;
+  background-color: #fafafa;
 }
 
 .score-board {
   margin: 20px auto;
-  border: 3px solid white;
-  border-radius: 4px;
+  border: 3px solid #adadad;
+  border-radius: 25px;
   text-align: center;
   width: 200px;
-  color: white;
+  color: #484848;
   font-size: 46px;
   padding: 15px 20px;
   font-family: 'Bebas Neue', cursive;
@@ -54,7 +54,7 @@ body {
 
 .result {
   font-size: 40px;
-  color: white;
+  color: #484848;
 }
 
 .result>p {
@@ -81,7 +81,7 @@ body {
 
 #action-message {
   text-align: center;
-  color: white;
+  color: #484848;
   font-family: 'Bebas Neue', cursive;
   font-size: 30px;
 }
